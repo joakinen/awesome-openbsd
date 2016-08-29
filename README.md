@@ -12,6 +12,7 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 ## News
 
 * [Undeadly](http://undeadly.org/) - OpenBSD Journal
+* [Lobsters](https://lobste.rs/t/openbsd)
 * [reddit community](http://reddit.com/r/openbsd/)
 
 ## External repositories
