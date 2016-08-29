@@ -13,3 +13,9 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 
 * [Undeadly](http://undeadly.org/) - OpenBSD Journal
 * [reddit community](http://reddit.com/r/openbsd/)
+
+## Repositories
+
+* [OpenBSD work in progress ports](https://github.com/jasperla/openbsd-wip)
+* [LibreSSL Portable](https://github.com/libressl-portable/portable)
+* [OpenBSD src mirror](https://github.com/ilyak/openbsd)
