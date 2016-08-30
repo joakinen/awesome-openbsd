@@ -3,6 +3,8 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 
 ## Websites
 
+* [The OpenBSD Foundation](http://www.openbsdfoundation.org/) - Funding for OpenBSD and related Projects
+* [The OpenBSD store](https://openbsdstore.com/) - buying DVD releases, posters and T-Shirts also supports the project
 * [OpenBSD jumpstart](http://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
 * [OpenBSD Ports](http://www.openports.se/) - browse the package collection
 * [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and the base system
