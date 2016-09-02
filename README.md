@@ -10,6 +10,13 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 * [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and the base system
 * [OpenBSD stats](http://www.oxide.org/cvs) - CVS commit stats
 * [Status of OpenBSD mirrors](http://spacehopper.org/mirmon/top.html) - 150+ sites in 30 regions
+ 
+## Blogs
+
+* [Ted Unangst](http://www.tedunangst.com/flak/)
+* [Peter Hansteen](https://bsdly.blogspot.com)
+* [Joshua Stein](https://jcs.org/)
+* [mulander](https://blog.tintagel.pl/)
 
 ## News
 
