@@ -7,10 +7,12 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 * [The OpenBSD store](https://openbsdstore.com/) - buying DVD releases, posters and T-Shirts also supports the project
 * [OpenBSD jumpstart](http://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
 * [OpenBSD Ports](http://www.openports.se/) - browse the package collection
-* [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and the base system
+* [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
 * [OpenBSD stats](http://www.oxide.org/cvs) - CVS commit stats
 * [Status of OpenBSD mirrors](http://spacehopper.org/mirmon/top.html) - 150+ sites in 30 regions
-* [OpenBSD on Open Hub](https://www.openhub.net/p/openbsd)
+* [OpenBSD on Open Hub](https://www.openhub.net/p/openbsd) - more stats about the project
+* [Enlightenment on OpenBSD](http://enform.haxlab.org/)
+* [OpenBSD Gaming Resource](http://satterly.neocities.org/openbsd_games.html)
  
 ## Blogs
 
