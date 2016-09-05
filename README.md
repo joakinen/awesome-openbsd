@@ -29,6 +29,10 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 * [reddit community](http://reddit.com/r/openbsd/)
 * [Planet OpenBSD](https://bronevichok.ru/openbsd-planet/)
 
+## Twitter
+
+* [@OpenBSD_CVS](https://twitter.com/OpenBSD_CVS) - OpenBSD Commit messages in 140 characters or less. For individual modules, see: [@OpenBSD_src](https://twitter.com/OpenBSD_src), [@OpenBSD_ports](https://twitter.com/OpenBSD_ports), [@OpenBSD_www](https://twitter.com/OpenBSD_www), [@OpenBSD_xenocar](https://twitter.com/OpenBSD_xenocar), [@OpenBSD_stable](https://twitter.com/OpenBSD_stable) (all built by [Andrew Fresh](https://twitter.com/afresh1))
+
 ## External repositories (mainly on GitHub)
 
 * [OpenBSD work in progress ports](https://github.com/jasperla/openbsd-wip)
