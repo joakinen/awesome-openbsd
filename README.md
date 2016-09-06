@@ -20,7 +20,7 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 * [Peter Hansteen](https://bsdly.blogspot.com)
 * [Joshua Stein](https://jcs.org/)
 * [Antoine Jacoutot](https://www.bsdfrog.org/)
-* [mulander](https://blog.tintagel.pl/)
+* [Adam Wołk](https://blog.tintagel.pl/)
 
 ## News
 
