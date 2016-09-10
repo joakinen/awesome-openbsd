@@ -13,6 +13,7 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 * [OpenBSD on Open Hub](https://www.openhub.net/p/openbsd) - more stats about the project
 * [Enlightenment on OpenBSD](http://enform.haxlab.org/)
 * [OpenBSD Gaming Resource](http://satterly.neocities.org/openbsd_games.html)
+* [OpenBSD Wikipedia page](https://en.wikipedia.org/wiki/OpenBSD)
  
 ## Blogs
 
