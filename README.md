@@ -34,7 +34,8 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 ## Twitter
 
 * [@OpenBSD_CVS](https://twitter.com/OpenBSD_CVS) - OpenBSD Commit messages in 140 characters or less. For individual modules, see: [@OpenBSD_src](https://twitter.com/OpenBSD_src), [@OpenBSD_ports](https://twitter.com/OpenBSD_ports), [@OpenBSD_www](https://twitter.com/OpenBSD_www), [@OpenBSD_xenocar](https://twitter.com/OpenBSD_xenocar), [@OpenBSD_stable](https://twitter.com/OpenBSD_stable) (all built by [Andrew Fresh](https://twitter.com/afresh1))
-* [@OpenBSDJournal](https://twitter.com/openbsdjournal) - tweets to Undead.org stories
+* [@OpenBSDJournal](https://twitter.com/openbsdjournal) - tweets to Undeadly.org stories
+* [@OpenSMTPD](https://twitter.com/opensmtpd)
 
 ## External repositories (mainly on GitHub)
 
