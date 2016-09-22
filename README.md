@@ -40,11 +40,11 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 ## External repositories (mainly on GitHub)
 
 * [OpenBSD work in progress ports](https://github.com/jasperla/openbsd-wip)
+* [OpenBSD git mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton
+* [OpenBSD mercurial mirror](https://bitbucket.org/braindamaged/openbsd-src) - using mercurial
 * [LibreSSL Portable](https://github.com/libressl-portable/portable)
 * [cwm(1) portable](https://github.com/chneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager 
 * [Reyk Floeter repos](https://github.com/reyk) - httpd, openiked, relayd, snmpd
-* [OpenBSD src mirror](https://github.com/ilyak/openbsd) - using git
-* [OpenBSD src mirror](https://bitbucket.org/braindamaged/openbsd-src) - using mercurial
 * [snap, an OpenBSD upgrade tool](https://github.com/qbit/snap)
 * [pledge(2) resources](https://github.com/PeterTonoli/awesome-pledge)
 * [OpenSMTPD official mirror and extra repos](https://github.com/opensmtpd)
