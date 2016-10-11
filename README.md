@@ -8,6 +8,7 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 * [OpenBSD jumpstart](http://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
 * [OpenBSD Ports](http://www.openports.se/) - browse the package collection
 * [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
+* [mdoc webpage](http://mdocml.bsd.lv/mdoc/)
 * [OpenBSD stats](http://www.oxide.org/cvs) - CVS commit stats
 * [Status of OpenBSD mirrors](http://spacehopper.org/mirmon/top.html) - 150+ sites in 30 regions
 * [OpenBSD on Open Hub](https://www.openhub.net/p/openbsd) - more stats about the project
