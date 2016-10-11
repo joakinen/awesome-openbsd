@@ -15,6 +15,7 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 * [Enlightenment on OpenBSD](http://enform.haxlab.org/)
 * [OpenBSD Gaming Resource](http://satterly.neocities.org/openbsd_games.html)
 * [OpenBSD Wikipedia page](https://en.wikipedia.org/wiki/OpenBSD)
+* [Installing OpenBSD 6.0 on your laptop is really hard (not)](http://sohcahtoa.org.uk/openbsd.html)
  
 ## Blogs
 
