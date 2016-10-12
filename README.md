@@ -1,6 +1,17 @@
 # awesome-openbsd
 Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 
+## Related projects
+
+* [OpenSSH](http://www.openssh.com/)
+* [LibreSSL](http://www.libressl.org/)
+* [OpenNTPD](http://www.openntpd.org/)
+* [OpenSMTPD](https://www.opensmtpd.org/)
+* [OpenBGPD](http://www.openbgpd.org/)
+* [OpenIKED](http://www.openiked.org/)
+* [mdoc webpage](http://mdocml.bsd.lv/mdoc/)
+* [Donations](https://www.openbsd.org/donations.html)
+
 ## Websites
 
 * [The OpenBSD Foundation](http://www.openbsdfoundation.org/) - Funding for OpenBSD and related Projects
@@ -8,7 +19,6 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 * [OpenBSD jumpstart](http://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
 * [OpenBSD Ports](http://www.openports.se/) - browse the package collection
 * [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
-* [mdoc webpage](http://mdocml.bsd.lv/mdoc/)
 * [OpenBSD stats](http://www.oxide.org/cvs) - CVS commit stats
 * [Status of OpenBSD mirrors](http://spacehopper.org/mirmon/top.html) - 150+ sites in 30 regions
 * [OpenBSD on Open Hub](https://www.openhub.net/p/openbsd) - more stats about the project
