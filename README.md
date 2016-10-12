@@ -12,10 +12,14 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 * [OpenBSD stats](http://www.oxide.org/cvs) - CVS commit stats
 * [Status of OpenBSD mirrors](http://spacehopper.org/mirmon/top.html) - 150+ sites in 30 regions
 * [OpenBSD on Open Hub](https://www.openhub.net/p/openbsd) - more stats about the project
+* [OpenBSD Wikipedia page](https://en.wikipedia.org/wiki/OpenBSD)
+
+## Articles
+
+* [Installing OpenBSD 6.0 on your laptop is really hard (not)](http://sohcahtoa.org.uk/openbsd.html)
+* [An OpenBSD Workstation](http://eradman.com/posts/openbsd-workstation.html)
 * [Enlightenment on OpenBSD](http://enform.haxlab.org/)
 * [OpenBSD Gaming Resource](http://satterly.neocities.org/openbsd_games.html)
-* [OpenBSD Wikipedia page](https://en.wikipedia.org/wiki/OpenBSD)
-* [Installing OpenBSD 6.0 on your laptop is really hard (not)](http://sohcahtoa.org.uk/openbsd.html)
  
 ## Blogs
 
