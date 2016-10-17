@@ -55,6 +55,7 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 
 ## External repositories (mainly on GitHub)
 
+* [Scripts to run an OpenBSD mirror](https://github.com/bluhm/mirror-openbsd)
 * [OpenBSD work in progress ports](https://github.com/jasperla/openbsd-wip)
 * [OpenBSD git mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton
 * [OpenBSD bitbucket mirror](https://bitbucket.org/braindamaged/openbsd-src) - using mercurial
