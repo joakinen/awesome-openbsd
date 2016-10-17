@@ -57,7 +57,7 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 
 * [OpenBSD work in progress ports](https://github.com/jasperla/openbsd-wip)
 * [OpenBSD git mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton
-* [OpenBSD mercurial mirror](https://bitbucket.org/braindamaged/openbsd-src) - using mercurial
+* [OpenBSD bitbucket mirror](https://bitbucket.org/braindamaged/openbsd-src) - using mercurial
 * [LibreSSL Portable](https://github.com/libressl-portable/portable)
 * [cwm(1) portable](https://github.com/chneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager 
 * [Reyk Floeter repos](https://github.com/reyk) - httpd, openiked, relayd, snmpd
