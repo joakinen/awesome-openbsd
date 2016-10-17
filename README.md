@@ -67,3 +67,4 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 * [OpenSMTPD official mirror and extra repos](https://github.com/opensmtpd)
 * [AWS-OpenBSD](https://github.com/ajacoutot/aws-openbsd) - AWS playground for OpenBSD kids
 * [OpenBSD Flashboot](https://github.com/kirei/flashboot) - suitable for booting of flash devices
+* [Execute Rails applications on OpenBSD](https://github.com/wesley974/railsonopenbsd)
