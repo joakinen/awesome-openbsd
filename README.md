@@ -62,7 +62,7 @@ Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 * [cwm(1) portable](https://github.com/chneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager 
 * [Reyk Floeter repos](https://github.com/reyk) - httpd, openiked, relayd, snmpd
 * [snap, an OpenBSD upgrade tool](https://github.com/qbit/snap)
-* [pledge(2) resources](https://github.com/PeterTonoli/awesome-pledge)
+* [awesome pledge(2)](https://github.com/PeterTonoli/awesome-pledge)
 * [OpenSMTPD official mirror and extra repos](https://github.com/opensmtpd)
 * [AWS-OpenBSD](https://github.com/ajacoutot/aws-openbsd) - AWS playground for OpenBSD kids
 * [OpenBSD Flashboot](https://github.com/kirei/flashboot) - suitable for booting of flash devices
