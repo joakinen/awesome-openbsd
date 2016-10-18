@@ -49,6 +49,10 @@ Shortcuts to OpenBSD.org: [[FAQ](https://openbsd.org/faq/) - [man pages](http://
 * [Google Plus community](https://plus.google.com/communities/113634135604793474364)
 * [Planet OpenBSD](https://bronevichok.ru/openbsd-planet/)
 
+## Mailing lists
+
+* [MARC](https://marc.info/) (look for openbsd-* lists)
+
 ## Twitter
 
 * [@OpenBSD_CVS](https://twitter.com/OpenBSD_CVS) - OpenBSD Commit messages in 140 characters or less. For individual modules, see: [@OpenBSD_src](https://twitter.com/OpenBSD_src), [@OpenBSD_ports](https://twitter.com/OpenBSD_ports), [@OpenBSD_www](https://twitter.com/OpenBSD_www), [@OpenBSD_xenocar](https://twitter.com/OpenBSD_xenocar), [@OpenBSD_stable](https://twitter.com/OpenBSD_stable) (all built by [Andrew Fresh](https://twitter.com/afresh1))
