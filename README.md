@@ -34,6 +34,7 @@ Shortcuts to OpenBSD.org: [[FAQ](https://openbsd.org/faq/) - [man pages](http://
 * [Enlightenment on OpenBSD](http://enform.haxlab.org/)
 * [OpenBSD Gaming Resource](http://satterly.neocities.org/openbsd_games.html)
 * [Screencasting with OpenBSD](http://eradman.com/posts/screencasting.html)
+* [OpenBSD's Autoinstall](http://eradman.com/posts/autoinstall-openbsd.html)
  
 ## Blogs
 
