@@ -44,13 +44,14 @@ Shortcuts to OpenBSD.org: [[FAQ](https://openbsd.org/faq/) - [man pages](http://
 * [Antoine Jacoutot](https://www.bsdfrog.org/)
 * [Adam Wołk](https://blog.tintagel.pl/)
 
-## News
+## News & forums
 
 * [Undeadly](http://undeadly.org/) - OpenBSD Journal
 * [Lobsters](https://lobste.rs/t/openbsd)
 * [reddit community](http://reddit.com/r/openbsd/)
 * [Google Plus community](https://plus.google.com/communities/113634135604793474364)
 * [Planet OpenBSD](https://bronevichok.ru/openbsd-planet/)
+* [BSDGURU.in](https://www.bsdguru.in/t/OpenBSD/)
 
 ## Mailing lists
 
