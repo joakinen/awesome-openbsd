@@ -33,6 +33,7 @@ Shortcuts to OpenBSD.org: [[FAQ](https://openbsd.org/faq/) - [man pages](http://
 * [An OpenBSD Workstation](http://eradman.com/posts/openbsd-workstation.html)
 * [Enlightenment on OpenBSD](http://enform.haxlab.org/)
 * [OpenBSD Gaming Resource](http://satterly.neocities.org/openbsd_games.html)
+* [Screencasting with OpenBSD](http://eradman.com/posts/screencasting.html)
  
 ## Blogs
 
