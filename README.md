@@ -58,6 +58,7 @@ Shortcuts to OpenBSD.org: [[FAQ](https://openbsd.org/faq/) - [man pages](http://
 ## Mailing lists
 
 * [MARC](https://marc.info/): [openbsd-tech](http://marc.info/?l=openbsd-tech) - [openbsd-cvs](http://marc.info/?l=openbsd-cvs) - [openbsd-ports](http://marc.info/?l=openbsd-ports)
+* [OpenBSD weekly/daily changes list](http://www.squish.net/log/openbsd-source-changes/)
 
 ## Twitter
 
