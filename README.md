@@ -37,6 +37,7 @@ Shortcuts to OpenBSD.org: [[FAQ](https://openbsd.org/faq/) - [man pages](http://
 * [OpenBSD's Autoinstall](http://eradman.com/posts/autoinstall-openbsd.html)
 * [Fail2ban on OpenBSD 6.0](http://blog.gordonturner.ca/2016/11/20/fail2ban-on-openbsd-6-0/)
 * [OpenBSD on PC Engines APU2](https://github.com/elad/openbsd-apu2)
+* [OpenBSD on Soekris](http://wiki.soekris.info/Installing_OpenBSD)
  
 ## Blogs
 
