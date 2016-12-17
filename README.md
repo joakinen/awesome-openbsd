@@ -67,7 +67,7 @@ Shortcuts to OpenBSD.org: [[FAQ](https://openbsd.org/faq/) - [man pages](http://
 * [@OpenBSDJournal](https://twitter.com/openbsdjournal) - tweets to Undeadly.org stories
 * [@OpenSMTPD](https://twitter.com/opensmtpd)
 
-## External repositories (mainly on GitHub)
+## Third Party repositories
 
 * [Scripts to run an OpenBSD mirror](https://github.com/bluhm/mirror-openbsd)
 * [OpenBSD work in progress ports](https://github.com/jasperla/openbsd-wip)
