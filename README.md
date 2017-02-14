@@ -73,7 +73,8 @@ Shortcuts to OpenBSD.org: [[FAQ](https://openbsd.org/faq/) - [man pages](http://
 * [OpenBSD git mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton
 * [OpenBSD bitbucket mirror](https://bitbucket.org/braindamaged/openbsd-src) - using mercurial
 * [LibreSSL Portable](https://github.com/libressl-portable/portable)
-* [cwm(1) portable](https://github.com/chneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager 
+* [cwm(1) portable](https://github.com/chneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager
+* [A portable version of the OpenBSD `doas` command](https://github.com/Duncaen/OpenDoas)
 * [Reyk Floeter repos](https://github.com/reyk) - httpd, openiked, relayd, snmpd
 * [snap, an OpenBSD upgrade tool](https://github.com/qbit/snap)
 * [awesome pledge(2)](https://github.com/PeterTonoli/awesome-pledge)
