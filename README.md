@@ -5,13 +5,13 @@ Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.htm
 
 ## Related projects
 
-* [OpenSSH](http://www.openssh.com/)
-* [LibreSSL](http://www.libressl.org/)
-* [OpenNTPD](http://www.openntpd.org/)
-* [OpenSMTPD](https://www.opensmtpd.org/)
-* [OpenBGPD](http://www.openbgpd.org/)
-* [OpenIKED](http://www.openiked.org/)
-* [mandoc UNIX manpage compiler toolset](http://mdocml.bsd.lv/)
+* [OpenSSH](http://www.openssh.com/) - the premier connectivity tool for remote login with the SSH protocol
+* [LibreSSL](http://www.libressl.org/) - a version of the TLS/crypto stack forked from OpenSSL in 2014, with goals of modernizing the codebase, improving security, and applying best practice development processes
+* [OpenNTPD](http://www.openntpd.org/) - free and easy to use implementation of the Network Time Protocol
+* [OpenSMTPD](https://www.opensmtpd.org/) - free implementation of the server-side SMTP protocol as defined by RFC 5321, with some additional standard extensions
+* [OpenBGPD](http://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
+* [OpenIKED](http://www.openiked.org/) - free implementation of the Internet Key Exchange (IKEv2) protocol
+* [mandoc](http://mdocml.bsd.lv/) - free UNIX manpage compiler toolset
 
 ## Websites
 
