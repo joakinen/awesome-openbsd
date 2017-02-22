@@ -11,7 +11,7 @@ Shortcuts to OpenBSD.org: [[FAQ](https://openbsd.org/faq/) - [man pages](http://
 * [OpenSMTPD](https://www.opensmtpd.org/)
 * [OpenBGPD](http://www.openbgpd.org/)
 * [OpenIKED](http://www.openiked.org/)
-* [mdoc webpage](http://mdocml.bsd.lv/mdoc/)
+* [mdoc webpage](http://mdocml.bsd.lv/)
 
 ## Websites
 
