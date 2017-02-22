@@ -11,7 +11,7 @@ Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.htm
 * [OpenSMTPD](https://www.opensmtpd.org/)
 * [OpenBGPD](http://www.openbgpd.org/)
 * [OpenIKED](http://www.openiked.org/)
-* [mdoc webpage](http://mdocml.bsd.lv/)
+* [mandoc UNIX manpage compiler toolset](http://mdocml.bsd.lv/)
 
 ## Websites
 
