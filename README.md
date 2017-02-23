@@ -1,5 +1,6 @@
 # awesome-openbsd
-Best resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
+
+Curated list of resources about OpenBSD (after [OpenBSD.org](https://openbsd.org/))
 
 Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.html) - [FAQ](https://openbsd.org/faq/) - [man pages](http://man.openbsd.org/) - [PF's users guide](https://www.openbsd.org/faq/pf/) - [Porter's Handbook](https://www.openbsd.org/faq/ports/) - [Events & Papers](https://www.openbsd.org/events.html) - [Donations](https://www.openbsd.org/donations.html)]
 
