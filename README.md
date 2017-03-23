@@ -25,6 +25,7 @@ Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.htm
 * [Status of OpenBSD mirrors](http://spacehopper.org/mirmon/top.html) - 150+ sites in 30 regions
 * [OpenBSD on Open Hub](https://www.openhub.net/p/openbsd) - more stats about the project
 * [OpenBSD Wikipedia page](https://en.wikipedia.org/wiki/OpenBSD)
+* [OpenBSD git mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton (managed by OpenBSD hackers)
 
 ## Articles
 
@@ -71,11 +72,7 @@ Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.htm
 
 * [Scripts to run an OpenBSD mirror](https://github.com/bluhm/mirror-openbsd)
 * [OpenBSD work in progress ports](https://github.com/jasperla/openbsd-wip)
-* [OpenBSD git mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton
 * [OpenBSD bitbucket mirror](https://bitbucket.org/braindamaged/openbsd-src) - using mercurial
-* [LibreSSL Portable](https://github.com/libressl-portable/portable)
-* [cwm(1) portable](https://github.com/chneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager
-* [A portable version of the OpenBSD `doas` command](https://github.com/Duncaen/OpenDoas)
 * [Reyk Floeter repos](https://github.com/reyk) - httpd, openiked, relayd, snmpd
 * [snap, an OpenBSD upgrade tool](https://github.com/qbit/snap)
 * [awesome pledge(2)](https://github.com/PeterTonoli/awesome-pledge)
@@ -83,3 +80,9 @@ Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.htm
 * [AWS-OpenBSD](https://github.com/ajacoutot/aws-openbsd) - AWS playground for OpenBSD kids
 * [OpenBSD Flashboot](https://github.com/kirei/flashboot) - suitable for booting of flash devices
 * [Execute Rails applications on OpenBSD](https://github.com/wesley974/railsonopenbsd)
+
+### Ports to Linux
+
+* [LibreSSL Portable](https://github.com/libressl-portable/portable)
+* [cwm(1) portable](https://github.com/chneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager
+* [A portable version of the OpenBSD `doas` command](https://github.com/Duncaen/OpenDoas)
