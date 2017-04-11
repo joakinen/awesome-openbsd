@@ -40,6 +40,7 @@ Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.htm
 * [Fail2ban on OpenBSD 6.0](http://blog.gordonturner.ca/2016/11/20/fail2ban-on-openbsd-6-0/)
 * [OpenBSD on PC Engines APU2](https://github.com/elad/openbsd-apu2) - [OpenBSD-APU2](https://github.com/northox/openbsd-apu2)
 * [OpenBSD on Soekris](http://wiki.soekris.info/Installing_OpenBSD)
+* [Getting OpenBSD running on Raspberry Pi 3](http://undeadly.org/cgi?action=article&sid=20170409123528)
  
 ## Blogs
 
