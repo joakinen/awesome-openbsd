@@ -31,7 +31,9 @@ Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.htm
 ## Articles
 
 * [Installing OpenBSD 6.0 on your laptop is really hard (not)](http://sohcahtoa.org.uk/openbsd.html)
-* [Installing OpenBSD 6.0 on Vultr](http://50pop.com/v.html)
+* [OpenBSD 6.0 : why and how](https://sivers.org/openbsd) w/ links to:
+  * [Installing OpenBSD 6.0 on Vultr](https://sivers.org/file/OpenBSD-v.html)
+  * [Installing OpenBSD 6.0 on Digital Ocean](https://sivers.org/file/OpenBSD-d.html)
 * [An OpenBSD Workstation](http://eradman.com/posts/openbsd-workstation.html)
 * [Enlightenment on OpenBSD](http://enform.haxlab.org/)
 * [OpenBSD Gaming Resource](http://satterly.neocities.org/openbsd_games.html)
