@@ -59,7 +59,7 @@ Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.htm
 * [reddit community](http://reddit.com/r/openbsd/)
 * [Google Plus community](https://plus.google.com/communities/113634135604793474364)
 * [Planet OpenBSD](https://bronevichok.ru/openbsd-planet/)
-* [BSDGURU.in](https://www.bsdguru.in/t/OpenBSD/)
+* [UnitedBSD](https://unitedbsd.com/c/openbsd)
 
 ## Mailing lists
 
