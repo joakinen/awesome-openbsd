@@ -30,6 +30,7 @@ Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.htm
 
 ## Articles
 
+* [Keeping Your OpenBSD System In Trim: A Works For Me Guide](http://bsdly.blogspot.com/2012/07/keeping-your-openbsd-system-in-trim.html)
 * [Installing OpenBSD 6.0 on your laptop is really hard (not)](http://sohcahtoa.org.uk/openbsd.html)
 * [OpenBSD 6.0 : why and how](https://sivers.org/openbsd) w/ links to:
   * [Installing OpenBSD 6.0 on Vultr](https://sivers.org/file/OpenBSD-v.html)
