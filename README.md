@@ -63,15 +63,19 @@
 ## News & forums
 
 * [Undeadly](http://undeadly.org/) - OpenBSD Journal
-* [Lobsters](https://lobste.rs/t/openbsd)
+* [Planet OpenBSD](http://openbsdnow.org/)
+* [Lobsters OpenBSD tag](https://lobste.rs/t/openbsd)
 * [reddit community](http://reddit.com/r/openbsd/)
 * [Google Plus community](https://plus.google.com/communities/113634135604793474364)
-* [Planet OpenBSD](http://openbsdnow.org/)
 * [UnitedBSD](https://unitedbsd.com/c/openbsd)
 
 ## Mailing lists
 
-* [MARC](https://marc.info/): [openbsd-tech](http://marc.info/?l=openbsd-tech) - [openbsd-cvs](http://marc.info/?l=openbsd-cvs) - [openbsd-ports](http://marc.info/?l=openbsd-ports) - [openbsd-misc](http://marc.info/?l=openbsd-misc)
+* [MARC](https://marc.info/):
+  * [openbsd-tech](http://marc.info/?l=openbsd-tech)
+  * [openbsd-cvs](http://marc.info/?l=openbsd-cvs)
+  * [openbsd-ports](http://marc.info/?l=openbsd-ports)
+  * [openbsd-misc](http://marc.info/?l=openbsd-misc)
 * [OpenBSD weekly/daily changes list](http://www.squish.net/log/openbsd-source-changes/)
 
 ## Twitter
