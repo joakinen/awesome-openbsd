@@ -2,7 +2,15 @@
 
 *Curated list of resources about OpenBSD (beyond [OpenBSD.org](https://openbsd.org/))*
 
-Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.html) - [FAQ](https://openbsd.org/faq/) - [man pages](http://man.openbsd.org/) - [PF's users guide](https://www.openbsd.org/faq/pf/) - [Porter's Handbook](https://www.openbsd.org/faq/ports/) - [Events & Papers](https://www.openbsd.org/events.html) - [Donations](https://www.openbsd.org/donations.html)]
+## OpenBSD.org shortcuts
+
+* [Innovations](https://www.openbsd.org/innovations.html)
+* [FAQ](https://openbsd.org/faq/)
+* [man pages](http://man.openbsd.org/)
+* [PF's users guide](https://www.openbsd.org/faq/pf/)
+* [Porter's Handbook](https://www.openbsd.org/faq/ports/)
+* [Events & Papers](https://www.openbsd.org/events.html)
+* [Donations](https://www.openbsd.org/donations.html)
 
 ## Related projects
 
@@ -17,7 +25,7 @@ Shortcuts to OpenBSD.org: [[Innovations](https://www.openbsd.org/innovations.htm
 ## Websites
 
 * [The OpenBSD Foundation](http://www.openbsdfoundation.org/) - Funding for OpenBSD and related Projects
-* [The OpenBSD store](https://openbsdstore.com/) - buying DVD releases, posters and T-Shirts also supports the project
+* [The OpenBSD store](https://openbsdstore.com/) - buying former DVD releases, posters and T-Shirts also supports the project
 * [OpenBSD jumpstart](http://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
 * [OpenBSD Ports](http://www.openports.se/) - browse the package collection
 * [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
