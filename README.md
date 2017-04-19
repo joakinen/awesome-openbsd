@@ -2,7 +2,7 @@
 
 *Curated list of resources about OpenBSD (beyond [OpenBSD.org](https://openbsd.org/))*
 
-## OpenBSD.org shortcuts
+## Official OpenBSD
 
 * [Innovations](https://www.openbsd.org/innovations.html)
 * [FAQ](https://openbsd.org/faq/)
@@ -11,8 +11,9 @@
 * [Porter's Handbook](https://www.openbsd.org/faq/ports/)
 * [Events & Papers](https://www.openbsd.org/events.html)
 * [Donations](https://www.openbsd.org/donations.html)
+* [OpenBSD Foundation](http://www.openbsdfoundation.org/) - Funding for OpenBSD and related Projects
 
-## Related projects
+### Related projects
 
 * [OpenSSH](http://www.openssh.com/) - the premier connectivity tool for remote login with the SSH protocol
 * [LibreSSL](http://www.libressl.org/) - a version of the TLS/crypto stack forked from OpenSSL in 2014, with goals of modernizing the codebase, improving security, and applying best practice development processes
@@ -21,10 +22,10 @@
 * [OpenBGPD](http://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
 * [OpenIKED](http://www.openiked.org/) - free implementation of the Internet Key Exchange (IKEv2) protocol
 * [mandoc](http://mdocml.bsd.lv/) - free UNIX manpage compiler toolset
+* [OpenBSD git mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton (managed by OpenBSD hackers)
 
-## Websites
+## Non-official OpenBSD websites
 
-* [The OpenBSD Foundation](http://www.openbsdfoundation.org/) - Funding for OpenBSD and related Projects
 * [OpenBSD jumpstart](http://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
 * [OpenBSD Ports](http://www.openports.se/) - browse the package collection
 * [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
@@ -33,7 +34,6 @@
 * [OpenBSD on Open Hub](https://www.openhub.net/p/openbsd) - more stats about the project
 * [Analysis of OpenBSD community](https://github.com/ligurio/openbsd-metrics) with [GrimoireELK](https://github.com/grimoirelab/GrimoireELK)
 * [OpenBSD Wikipedia page](https://en.wikipedia.org/wiki/OpenBSD)
-* [OpenBSD git mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton (managed by OpenBSD hackers)
 
 ## Articles
 
