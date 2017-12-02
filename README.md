@@ -35,6 +35,7 @@
 * [Analysis of OpenBSD community](https://github.com/ligurio/openbsd-metrics) with [GrimoireELK](https://github.com/grimoirelab/GrimoireELK)
 * [OpenBSD Wikipedia page](https://en.wikipedia.org/wiki/OpenBSD)
 * [OpenBSD QA wiki](https://github.com/ligurio/openbsd-tests/wiki)
+* [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
 
 ## Articles
 
