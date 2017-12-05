@@ -36,6 +36,7 @@
 * [OpenBSD Wikipedia page](https://en.wikipedia.org/wiki/OpenBSD)
 * [OpenBSD QA wiki](https://github.com/ligurio/openbsd-tests/wiki)
 * [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
+* [Multicast Proxy for OpenBSD](https://github.com/Esdenera/mcast-proxy) from [Esdenera](https://www.esdenera.com/)
 
 ## Articles
 
