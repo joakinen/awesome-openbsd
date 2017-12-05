@@ -54,6 +54,7 @@
 * [OpenBSD on PC Engines APU2](https://github.com/elad/openbsd-apu2) - [OpenBSD-APU2](https://github.com/northox/openbsd-apu2)
 * [OpenBSD on Soekris](http://wiki.soekris.info/Installing_OpenBSD)
 * [Getting OpenBSD running on Raspberry Pi 3](http://undeadly.org/cgi?action=article&sid=20170409123528)
+* [A simple first server](http://blog.hermes-technology.de/openbsd/server/2017/06/06/a-first-server.html) - A series of posts about OpenBSD server configuration for learning purposes
  
 ## Blogs
 
