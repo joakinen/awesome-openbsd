@@ -103,6 +103,7 @@
 * [OpenBSD Flashboot](https://github.com/kirei/flashboot) - suitable for booting of flash devices
 * [Execute Rails applications on OpenBSD](https://github.com/wesley974/railsonopenbsd)
 * [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
+* [dyndnsd](https://github.com/mario-campos/dyndnsd) - Dynamic DNS Daemon for OpenBSD
 
 ### Ports to Linux
 
