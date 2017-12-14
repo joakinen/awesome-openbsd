@@ -47,7 +47,7 @@
   * [Installing OpenBSD 6.0 on Digital Ocean](https://sivers.org/file/OpenBSD-d.html)
 * [An OpenBSD Workstation](http://eradman.com/posts/openbsd-workstation.html)
 * [Enlightenment on OpenBSD](http://enform.haxlab.org/)
-* [OpenBSD Gaming Resource](http://satterly.neocities.org/openbsd_games.html)
+* [OpenBSD Gaming Resource](http://mrsatterly.com/openbsd_games.html)
 * [Screencasting with OpenBSD](http://eradman.com/posts/screencasting.html)
 * [OpenBSD's Autoinstall](http://eradman.com/posts/autoinstall-openbsd.html)
 * [Fail2ban on OpenBSD 6.0](http://blog.gordonturner.ca/2016/11/20/fail2ban-on-openbsd-6-0/)
