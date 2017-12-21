@@ -28,6 +28,8 @@
 
 * [OpenBSD jumpstart](http://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
 * [OpenBSD Ports](http://www.openports.se/) - browse the package collection
+* [OpenBSD ports](http://ports.su/) - /usr/ports/databases/ports-readmes
+* [mdoc.su](http://mdoc.su/) - Deterministic URL shortener for BSD manual pages, written in nginx.conf
 * [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
 * [OpenBSD stats](http://www.oxide.org/cvs) - CVS commit stats
 * [Status of OpenBSD mirrors](http://spacehopper.org/mirmon/top.html) - 150+ sites in 30 regions
