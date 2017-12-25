@@ -28,6 +28,7 @@
 
 * [OpenBSD jumpstart](http://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
 * [OpenBSD Ports](http://www.openports.se/) - browse the package collection
+* [bxr.su](http://bxr.su/) - powerful search on OpenBSD (and other project) code
 * [OpenBSD ports](http://ports.su/) - /usr/ports/databases/ports-readmes
 * [mdoc.su](http://mdoc.su/) - Deterministic URL shortener for BSD manual pages, written in nginx.conf
 * [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
