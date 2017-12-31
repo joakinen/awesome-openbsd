@@ -27,6 +27,7 @@
 ## Non-official OpenBSD websites
 
 * [OpenBSD jumpstart](http://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
+* [OpenBSD Daily](https://blog.tintagel.pl/2017/06/09/openbsd-daily.html) - [mulander/openbsd-daily](https://github.com/mulander/openbsd-daily) - official repository with all openbsd-daily reading by mulander and duncaen
 * [OpenBSD Ports](http://www.openports.se/) - browse the package collection
 * [bxr.su OpenGrok](http://bxr.su/) - powerful search on OpenBSD (and other project) code
 * [OpenBSD ports](http://ports.su/) - /usr/ports/databases/ports-readmes
