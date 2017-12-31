@@ -44,6 +44,7 @@
 ## Articles
 
 * [Keeping Your OpenBSD System In Trim: A Works For Me Guide](http://bsdly.blogspot.com/2012/07/keeping-your-openbsd-system-in-trim.html)
+* [OpenBSD Workstation Guide](https://begriffs.com/posts/2017-05-17-openbsd-workstation-guide.html)
 * [Installing OpenBSD 6.1 on your laptop is really hard (not)](http://sohcahtoa.org.uk/openbsd.html)
 * [OpenBSD 6.0 : why and how](https://sivers.org/openbsd) w/ links to:
   * [Installing OpenBSD 6.0 on Vultr](https://sivers.org/file/OpenBSD-v.html)
