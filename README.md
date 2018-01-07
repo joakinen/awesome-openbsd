@@ -110,6 +110,7 @@
 * [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
 * [desktop-openbsd-starter-kit](https://github.com/matthewgraybosch/desktop-openbsd-starter-kit) - 
 Dotfiles and config files for use with OpenBSD on a desktop or laptop
+* [fvwm-config-on-openbsd](https://github.com/bfmartin/fvwm-config-on-openbsd) - Configuration files for the FVWM window manager on a modern OpenBSD
 * [dyndnsd](https://github.com/mario-campos/dyndnsd) - Dynamic DNS Daemon for OpenBSD
 
 ### Ports to Linux
