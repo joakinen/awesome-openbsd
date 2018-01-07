@@ -108,6 +108,8 @@
 * [OpenBSD Flashboot](https://github.com/kirei/flashboot) - suitable for booting of flash devices
 * [Execute Rails applications on OpenBSD](https://github.com/wesley974/railsonopenbsd)
 * [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
+* [desktop-openbsd-starter-kit](https://github.com/matthewgraybosch/desktop-openbsd-starter-kit) - 
+Dotfiles and config files for use with OpenBSD on a desktop or laptop
 * [dyndnsd](https://github.com/mario-campos/dyndnsd) - Dynamic DNS Daemon for OpenBSD
 
 ### Ports to Linux
