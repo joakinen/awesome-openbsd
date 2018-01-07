@@ -56,7 +56,8 @@
 * [Screencasting with OpenBSD](http://eradman.com/posts/screencasting.html)
 * [OpenBSD's Autoinstall](http://eradman.com/posts/autoinstall-openbsd.html)
 * [Fail2ban on OpenBSD 6.0](http://blog.gordonturner.ca/2016/11/20/fail2ban-on-openbsd-6-0/)
-* [OpenBSD on PC Engines APU2](https://github.com/elad/openbsd-apu2) - [OpenBSD-APU2](https://github.com/northox/openbsd-apu2)
+* [OpenBSD on PC Engines APU2](https://github.com/elad/openbsd-apu2) - OpenBSD on [PC Engines APU2](http://www.pcengines.ch/apu2.htm)
+* [OpenBSD-APU2](https://github.com/northox/openbsd-apu2) - Configuration files to setup PC Engines' APU2 as a WIFI router
 * [OpenBSD on Soekris](http://wiki.soekris.info/Installing_OpenBSD)
 * [Getting OpenBSD running on Raspberry Pi 3](http://undeadly.org/cgi?action=article&sid=20170409123528)
 * [A simple first server](http://blog.hermes-technology.de/openbsd/server/2017/06/06/a-first-server.html) - A series of posts about OpenBSD server configuration for learning purposes
