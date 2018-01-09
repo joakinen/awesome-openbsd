@@ -52,6 +52,7 @@
   * [Installing OpenBSD 6.0 on Digital Ocean](https://sivers.org/file/OpenBSD-d.html)
 * [An OpenBSD Workstation](http://eradman.com/posts/openbsd-workstation.html)
 * [Enlightenment on OpenBSD](http://enform.haxlab.org/)
+* [An awesome OpenBSD 6.1 desktop](https://github.com/WyldePointer/openbsd-desktop) (XFCE)
 * [OpenBSD Gaming Resource](http://mrsatterly.com/openbsd_games.html)
 * [Screencasting with OpenBSD](http://eradman.com/posts/screencasting.html)
 * [OpenBSD's Autoinstall](http://eradman.com/posts/autoinstall-openbsd.html)
