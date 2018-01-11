@@ -92,10 +92,11 @@
 
 ## Twitter
 
-* [@OpenBSD_CVS](https://twitter.com/OpenBSD_CVS) - OpenBSD Commit messages in 140 characters or less. For individual modules, see: [@OpenBSD_src](https://twitter.com/OpenBSD_src), [@OpenBSD_ports](https://twitter.com/OpenBSD_ports), [@OpenBSD_www](https://twitter.com/OpenBSD_www), [@OpenBSD_xenocar](https://twitter.com/OpenBSD_xenocar), [@OpenBSD_stable](https://twitter.com/OpenBSD_stable) (all built by [Andrew Fresh](https://twitter.com/afresh1))
+* [@OpenBSD_CVS](https://twitter.com/OpenBSD_CVS) - OpenBSD Commit messages in 140 characters or less. For individual modules, see: [@OpenBSD_src](https://twitter.com/OpenBSD_src), [@OpenBSD_ports](https://twitter.com/OpenBSD_ports), [@OpenBSD_www](https://twitter.com/OpenBSD_www), [@OpenBSD_xenocar](https://twitter.com/OpenBSD_xenocar), [@OpenBSD_stable](https://twitter.com/OpenBSD_stable), [@OpenBSD_sets](https://twitter.com/OpenBSD_sets) (all built by [Andrew Fresh](https://twitter.com/afresh1))
 * [@OpenBSDJournal](https://twitter.com/openbsdjournal) - tweets to Undeadly.org stories
 * [@OpenSMTPD](https://twitter.com/opensmtpd)
 * [@OpenBSDNow](https://twitter.com/openbsdnow) - OpenBSD News & Updates
+* [@mpotd_openbsd](https://twitter.com/mpotd_openbsd) - Man Page of The Day
 
 ## Third Party repositories
 
