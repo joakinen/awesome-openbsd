@@ -104,7 +104,7 @@
 
 ## Telegram Groups
 
-* [OpenBSD Jumpstart](https://t.me/joinchat/EzTjLQuG8Mcj89LYcDGKiQ) from the [OpenBSD Jumpstart](ttp://www.openbsdjumpstart.org/) author
+* [OpenBSD Jumpstart](https://t.me/joinchat/EzTjLQuG8Mcj89LYcDGKiQ) from the [OpenBSD Jumpstart](http://www.openbsdjumpstart.org/) author
 * [OpenBSD Brazil](https://t.me/OpenBSDbr)
 * [OpenBSD Spain](https://t.me/OpenBSD_es)
 
