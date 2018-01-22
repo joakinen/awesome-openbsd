@@ -90,6 +90,10 @@
   * [openbsd-misc](http://marc.info/?l=openbsd-misc)
 * [OpenBSD weekly/daily changes list](http://www.squish.net/log/openbsd-source-changes/)
 
+## IRC
+
+* [#OpenBSD](ircs://irc.freenode.net:6697/openbsd)
+
 ## Twitter
 
 * [@OpenBSD_CVS](https://twitter.com/OpenBSD_CVS) - OpenBSD Commit messages in 140 characters or less. For individual modules, see: [@OpenBSD_src](https://twitter.com/OpenBSD_src), [@OpenBSD_ports](https://twitter.com/OpenBSD_ports), [@OpenBSD_www](https://twitter.com/OpenBSD_www), [@OpenBSD_xenocar](https://twitter.com/OpenBSD_xenocar), [@OpenBSD_stable](https://twitter.com/OpenBSD_stable), [@OpenBSD_sets](https://twitter.com/OpenBSD_sets) (all built by [Andrew Fresh](https://twitter.com/afresh1))
@@ -97,6 +101,12 @@
 * [@OpenSMTPD](https://twitter.com/opensmtpd)
 * [@OpenBSDNow](https://twitter.com/openbsdnow) - OpenBSD News & Updates
 * [@mpotd_openbsd](https://twitter.com/mpotd_openbsd) - Man Page of The Day
+
+## Telegram Groups
+
+* [OpenBSD Jumpstart](https://t.me/joinchat/EzTjLQuG8Mcj89LYcDGKiQ) from the [OpenBSD Jumpstart](ttp://www.openbsdjumpstart.org/) author
+* [OpenBSD Brazil](https://t.me/OpenBSDbr)
+* [OpenBSD Spain](https://t.me/OpenBSD_es)
 
 ## Third Party repositories
 
